@@ -94,16 +94,7 @@ Currently diving into:
       Built a real-time safety system detecting helmets and vests in industrial environments. Vision meets vigilance.
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h4>📺 <a href="https://github.com/aashwika25/intel-unnati-dlstreamer-project">Intel Unnati DL Streamer Project</a></h4>
-      <img src="https://img.shields.io/badge/-OpenVINO-1B365D?style=flat-square&logo=intel&logoColor=white" />
-      <img src="https://img.shields.io/badge/-DLStreamer-black?style=flat-square&logo=deepin&logoColor=white" />
-      <br/>
-      Designed a smart video analytics pipeline using DL Streamer & OpenVINO on Intel's platform. Performance redefined.
-    </td>
-  </tr>
-  <tr>
+    <tr>
     <td width="50%">
       <h4>🧠 <a href="https://github.com/aashwika25/IdeaBank-GDGC2025">IdeaBank</a></h4>
       <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
@@ -111,6 +102,15 @@ Currently diving into:
       <img src="https://img.shields.io/badge/-IDX-grey?style=flat-square" />
       <br/>
       AI-first web app for capturing and refining ideas in real-time, powered by Firebase, Gemini API, and Google IDX. Designed for the future of ideation.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>📺 <a href="https://github.com/aashwika25/intel-unnati-dlstreamer-project">Intel Unnati DL Streamer Project</a></h4>
+      <img src="https://img.shields.io/badge/-OpenVINO-1B365D?style=flat-square&logo=intel&logoColor=white" />
+      <img src="https://img.shields.io/badge/-DLStreamer-black?style=flat-square&logo=deepin&logoColor=white" />
+      <br/>
+      Designed a smart video analytics pipeline using DL Streamer & OpenVINO on Intel's platform. Performance redefined.
     </td>
   </tr>
 </table>
