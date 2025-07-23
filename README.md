@@ -144,12 +144,12 @@ Currently diving into:
 
 ---
 
-### 🌐 Let’s Connect & Collaborate
-
+### 🌐 Let’s Connect & Collaborate!
+<!--
   <a href="mailto:khuranaashwika@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/aashwika-khurana-385258261"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/aashwika25"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
-  
+-->
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&width=800&lines=Progress+%3E+Perfection+-+Building%2C+breaking%2C+iterating." alt="Typing SVG" />
 
