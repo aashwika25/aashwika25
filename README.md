@@ -1,10 +1,24 @@
 <h1 align="center">Hey, I’m Aashwika Khurana!</h1>
+
 <h3 align="center">AI x Strategy | Building Smart Solutions with Impact</h3>
+
+<!--
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%E2%9C%94️+Strategy+%E2%9C%94️+Impact+✨;Building+Smart+Solutions+that+Scale&font=Fira+Code&center=true&width=450&height=50&color=8E7AB5&vCenter=true&size=20">
+</p> 
+-->
 
 <p align="center">
   <img src="https://img.shields.io/badge/BTech%20CSE%20(AIML)-%20-8B0000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20Enthusiast-%20Applied%20ML%20&%20Systems-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Leadership-%20Hackathons%20%7C%20Team%20Building-004080?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI/ML-💡-FFC8DD?style=for-the-badge&logo=openai&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tech%20with%20Impact-🌱-B5EAD7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Impact--Driven%20Tech-🚀-FFDAC1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Strategy%20%26%20Thinking-🎯-C7CEEA?style=for-the-badge" />
 </p>
 
 ---
